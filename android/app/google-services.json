@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "353798160464",
+    "project_id": "senvikiapp-3e3f7",
+    "storage_bucket": "senvikiapp-3e3f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353798160464:android:f0a70896940d40f0761155",
+        "android_client_info": {
+          "package_name": "com.senviki.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353798160464-hbiumdriitlapjjk5bk1qvqg77olt0uj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.senviki.app",
+            "certificate_hash": "22feaa73c9d1a06e4dd34d80ae0e74612fefbd54"
+          }
+        },
+        {
+          "client_id": "353798160464-hnd95dg00mfpepr0uod780daan30it04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn8bxXsKfthf6fP6wLlRKlKb3f8t41dQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353798160464-hnd95dg00mfpepr0uod780daan30it04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
